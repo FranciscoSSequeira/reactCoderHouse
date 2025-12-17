@@ -9,6 +9,8 @@ import Cart from "./components/Cart";
 import Checkout from "./components/Checkout";
 import ThankYou from "./components/ThankYou";
 
+// Triggering a new deploy
+
 function App() {
   return (
     <CartContextProvider>

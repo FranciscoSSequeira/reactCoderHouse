@@ -2,12 +2,13 @@ import { initializeApp } from "firebase/app";
 import{getFirestore} from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCRgpE3-lb5EUIq1rRGgZutuAAwa6IL1HU",
-  authDomain: "gamplay-c886a.firebaseapp.com",
-  projectId: "gamplay-c886a",
-  storageBucket: "gamplay-c886a.appspot.com",
-  messagingSenderId: "733868696188",
-  appId: "1:733868696188:web:bcbf6feccfcdf4b63c5ff9"
+  apiKey: "AIzaSyAG6LW6aPs5YSDL5z6hhWNsrSw-TBQ6JhA",
+  authDomain: "gameplay-9ded6.firebaseapp.com",
+  databaseURL: "https://gameplay-9ded6-default-rtdb.firebaseio.com",
+  projectId: "gameplay-9ded6",
+  storageBucket: "gameplay-9ded6.firebasestorage.app",
+  messagingSenderId: "202153465985",
+  appId: "1:202153465985:web:fa691092cb297050b11580"
 };
 
 

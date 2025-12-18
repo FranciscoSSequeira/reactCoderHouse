@@ -17,6 +17,9 @@ const ItemListContainer = () => {
 
         getDocs(filter)
             .then(elements => {
+                if (elements.empty) {
+                    console.warn("No se encontraron productos en la colección.");
+                }
                 setItems(elements.docs.map(element => ({ id: element.id, ...element.data() })));
                 setLoading(false);
             })
@@ -31,7 +34,7 @@ const ItemListContainer = () => {
         <div className="container">
             {loading && <Loading />}
             {error && <p className="error-message">{error}</p>} {/* Mostrar mensaje de error */}
-            {!loading && !error && <ItemList items={items} />}
+            {!loading && !error && <ItemList items={items} />} {/* Mostrar lista de productos */}
         </div>
     );
 };

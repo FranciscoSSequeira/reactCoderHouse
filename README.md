@@ -48,19 +48,30 @@ Firebase es utilizado como base de datos y fuente de datos externa, funcionando 
 
 <table>
 
+  <!-- Home / Catálogo -->
+  <tr>
+    <td colspan="2" align="center" valign="top">
+
+### 🏠 Home / Catálogo de productos
+<p>Vista general de la tienda donde se listan todos los productos disponibles.</p>
+<img alt="Home Catálogo" src="https://github.com/user-attachments/assets/605c4c75-7050-4f0f-8e56-e2e7b348f1f7" />
+
+</td>
+  </tr>
+
   <!-- Vista de producto / Carrito -->
   <tr>
     <td width="50%" align="center" valign="top">
 
 ### 🎮 Vista de producto
-<p>Detalle del producto seleccionado, con información y opción para agregar al carrito.</p>
+<p>Detalle del producto seleccionado con información y opción para agregar al carrito.</p>
 <img alt="Vista de producto" src="https://github.com/user-attachments/assets/7b7e3a0a-c22c-4560-9b08-20c5b8721319" />
 
 </td>
     <td width="50%" align="center" valign="top">
 
 ### 🛒 Carrito de compras
-<p>Listado de productos agregados, con opción de continuar comprando o finalizar la compra.</p>
+<p>Listado de productos agregados con opción de continuar comprando o finalizar la compra.</p>
 <img alt="Carrito" src="https://github.com/user-attachments/assets/21a62f42-6717-4810-b80e-cc2a0cf27b66" />
 
 </td>
@@ -77,7 +88,7 @@ Firebase es utilizado como base de datos y fuente de datos externa, funcionando 
 </td>
   </tr>
 
-  <!-- Thank You -->
+  <!-- Confirmación -->
   <tr>
     <td colspan="2" align="center" valign="top">
 
@@ -89,6 +100,7 @@ Firebase es utilizado como base de datos y fuente de datos externa, funcionando 
   </tr>
 
 </table>
+
 ## 📦 Persistencia de datos
 
 Los productos se obtienen desde Firebase.
@@ -117,3 +129,4 @@ Panel de administración
 
 Proyecto realizado como parte de mi formación académica.
 Perfil Junior / Trainee, en búsqueda de mi primer oportunidad laboral en IT, con foco en desarrollo Frontend / Full Stack
+

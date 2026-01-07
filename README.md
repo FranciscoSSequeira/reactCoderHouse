@@ -5,11 +5,15 @@ La app simula una tienda online de artículos gaming (juegos, joysticks y acceso
 
 [Link] (https://react-coderhouse-one.vercel.app/)
 
+---
+
 ## 🎯 Objetivo del proyecto
 
 El principal objetivo de este proyecto fue practicar y consolidar conceptos de React, manejo de estado, navegación entre vistas y persistencia de datos utilizando Firebase como base de datos.
 
 El proyecto funciona como demo académica y forma parte de mi portfolio personal.
+
+---
 
 ## 🧩 Funcionalidades principales
 
@@ -29,6 +33,8 @@ Generación de orden de compra
 
 Persistencia de productos y órdenes en Firebase
 
+---
+
 ## 🛠️ Tecnologías utilizadas
 ### Frontend
 
@@ -43,6 +49,8 @@ Base de datos / Backend as a Service
 Firebase (Firestore)
 
 Firebase es utilizado como base de datos y fuente de datos externa, funcionando como una API para el consumo de productos y almacenamiento de órdenes de compra.
+
+---
 
 ## 🖥️ Vistas de la aplicación
 
@@ -101,6 +109,8 @@ Firebase es utilizado como base de datos y fuente de datos externa, funcionando 
 
 </table>
 
+---
+
 ## 📦 Persistencia de datos
 
 Los productos se obtienen desde Firebase.
@@ -115,6 +125,8 @@ Las imágenes de los productos se gestionan directamente desde Firebase.
 ✔ Deployado en Vercel
 ✔ Abierto a mejoras futuras
 
+---
+
 ## Algunas posibles mejoras:
 
 Integración de pasarela de pagos
@@ -125,9 +137,12 @@ Historial de compras por usuario
 
 Panel de administración
 
+---
+
 ## 👨‍💻 Perfil
 
 Proyecto realizado como parte de mi formación académica.
 Perfil Junior / Trainee, en búsqueda de mi primer oportunidad laboral en IT, con foco en desarrollo Frontend / Full Stack
-💼 [Link] www.linkedin.com/in/francisco-sequeira-
+
+- 💼 [Link] www.linkedin.com/in/francisco-sequeira-
 

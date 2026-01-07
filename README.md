@@ -129,4 +129,5 @@ Panel de administración
 
 Proyecto realizado como parte de mi formación académica.
 Perfil Junior / Trainee, en búsqueda de mi primer oportunidad laboral en IT, con foco en desarrollo Frontend / Full Stack
+💼 [Link] www.linkedin.com/in/francisco-sequeira-
 
